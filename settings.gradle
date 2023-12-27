@@ -1,0 +1,9 @@
+rootProject.name = 'education-platform-micro'
+
+include 'edu-server'
+include 'edu-config'
+include 'edu-gateway'
+include 'edu-entity'
+include 'edu-users'
+include 'edu-course'
+include 'edu-utils'
